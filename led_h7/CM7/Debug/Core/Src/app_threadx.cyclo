@@ -1,0 +1,6 @@
+../Core/Src/app_threadx.c:65:5:_write	2
+../Core/Src/app_threadx.c:82:6:App_ThreadX_Init	1
+../Core/Src/app_threadx.c:102:6:MX_ThreadX_Init	1
+../Core/Src/app_threadx.c:116:6:LD1_thread_entry	1
+../Core/Src/app_threadx.c:124:6:LD2_thread_entry	1
+../Core/Src/app_threadx.c:132:6:MX_GPIO_Init	1
